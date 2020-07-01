@@ -1,6 +1,7 @@
 ---
 title: My first post.
 date: 2020-07-01T09:46:07.173Z
+featured_image: /images/back.jpg
 description: This is my first post.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque felis ac est porta, laoreet mollis nisl vestibulum. In nec tempus erat. Donec eu ultricies erat. Maecenas facilisis dictum nunc quis vehicula. Etiam nec ligula feugiat, cursus lacus at, fermentum ex. Nunc sed mi nisi. Vivamus molestie auctor neque, euismod semper tellus. Nunc semper laoreet erat, ut malesuada felis viverra a.
