@@ -1,7 +1,7 @@
 ---
 title: My second post
 date: 2020-07-01T09:47:09.694Z
-featured_image: /images/back.jpg
+featured_image: /images/cesar-couto-hnz6woonqpk-unsplash.jpg
 description: This is my second post.
 ---
 Aliquam a libero et justo pellentesque dignissim vitae id mi. Suspendisse ac aliquet ex. Vivamus justo augue, gravida eget egestas eu, dictum at dui. Pellentesque tempus auctor nibh, sit amet congue nisi cursus nec. Suspendisse tincidunt ligula felis, quis iaculis erat sagittis eget. Mauris sed posuere odio. Ut id nulla ornare, auctor enim quis, sollicitudin dolor. Pellentesque feugiat pulvinar justo, non bibendum tortor tincidunt eget. Sed suscipit mauris quis consectetur varius. Etiam pellentesque odio vel tortor faucibus commodo. Curabitur cursus nibh nisl. In non ipsum nisi. Fusce finibus volutpat feugiat. Mauris vitae massa viverra tortor mollis blandit. Phasellus id commodo orci. Donec convallis convallis nisi, ut gravida diam accumsan et.
