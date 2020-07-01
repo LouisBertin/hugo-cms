@@ -1,3 +1,17 @@
 .bg-black-60 {
     background-color: rgba(0, 0, 0, .3);
 }
+
+.about-img > div {
+    text-align: center;
+}
+
+.about-img span {
+    display: block;
+}
+
+.about-img img {
+    height: 100px;
+    width: auto;
+    display: unset;
+}

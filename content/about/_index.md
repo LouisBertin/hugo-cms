@@ -1,8 +1,55 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Weglot can help you to translate your website in few seconds."
 featured_image: "/images/gradient.jpg"
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/weglot.svg" title="" >}}           
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+&nbsp;
+&nbsp;
+
+Weglot is a french startup created in 2016. Its purpose is to provide a tool to easily translate websites.
+It already has multiples integration available :
+
+
+<aside class="flex-ns flex-wrap justify-around about-img">
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/wordpress.png">
+        <span>Wordpress</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/woocommerce.png">
+        <span>WooCommerce</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/squarespace.png">
+        <span>Squarespace</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/javascript.png">
+        <span>JavaScript</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/bigcommerce.png">
+        <span>BigCommerce</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/wix.png">
+        <span>Wix</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/prestashop.png">
+        <span>Prestashop</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/magento.png">
+        <span>Magento</span>
+    </div>
+    <div class="relative w-100 w-30-l mb4">
+        <img src="/images/tech/shopify.png">
+        <span>Shopify</span>
+    </div>
+</aside>
+
+
+> And many others that you can find on the official website : <a href="https://weglot.com/" target="_blank" >https://weglot.com/</a>

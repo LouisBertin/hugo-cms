@@ -25,3 +25,6 @@ SectionPagesMenu = "main"
   featured_image = "/images/gradient.jpg"
   custom_css = ["css/custom.css"]
   recent_posts_number = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
