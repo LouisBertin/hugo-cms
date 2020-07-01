@@ -1,4 +1,4 @@
-baseURL = "https://louis-sandbox.xyz"
+baseURL = "https://multilingual-hugo.com/"
 languageCode = "en-us"
 title = "Hugo + Weglot"
 theme = "ananke"
